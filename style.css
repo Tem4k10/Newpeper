@@ -85,6 +85,7 @@ a {
 .title {
     font-size: 40px;
     text-align: center;
+    margin-bottom: 15px;
 }
 
 .news {
@@ -158,4 +159,151 @@ a {
 }
 .footer-list{
     display: flex;
+}
+/* Styles for page one. */
+.cat-container{
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+        0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+    background-color: rgb(247, 247, 247);
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 50px;
+}
+.cat-text{
+ margin-top: 30px;
+ margin: bottom 50px ;
+}
+.cat-title{
+    text-align: center;
+}
+.cat-img{
+    width: 600px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+/* Styles for page three */
+.dog-container{
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+background-color: rgb(247, 247, 247);
+border: 1px solid gray;
+border-radius: 20px;
+padding: 30px;
+margin-top: 50px;
+}
+.dog-text{
+    margin-top: 30px;
+}
+.dog-img{
+    display: flex;
+    justify-content: center;
+    margin: 25px auto ;
+}
+/* Styles for the third page  */
+.study-container{
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+background-color: rgb(247, 247, 247);
+border: 1px solid gray;
+border-radius: 20px;
+padding: 30px;
+margin-top: 50px;
+}
+.study-text{
+margin-top: 30px;
+
+}
+.study-img{
+    display: flex;
+    justify-content: center;
+    margin: 25px auto ;
+    width: 800px;
+}
+.study-list{
+    list-style: square;
+    margin-left: 20px;
+    margin-top: ;
+}
+.study-item{
+    margin-top: 10px;
+}
+.study-container{
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+background-color: rgb(247, 247, 247);
+border: 1px solid gray;
+border-radius: 20px;
+padding: 30px;
+margin-top: 50px;
+}
+.study-text{
+margin-top: 30px;
+
+}
+.study-img{
+    display: flex;
+    justify-content: center;
+    margin: 25px auto ;
+    width: 800px;
+}
+.study-list{
+    list-style: square;
+    margin-left: 20px;
+    margin-top: ;
+}
+.study-item{
+    margin-top: 10px;
+}
+.snails-container{
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+background-color: rgb(247, 247, 247);
+border: 1px solid gray;
+border-radius: 20px;
+padding: 30px;
+margin-top: 50px;
+}
+.snails-text{
+margin-top: 30px;
+
+}
+.snails-img{
+    display: flex;
+    justify-content: center;
+    margin: 25px auto ;
+    width: 800px;
+}
+.snails-list{
+    list-style: square;
+    margin-left: 20px;
+    margin-top: ;
+}
+.snails-item{
+    margin-top: 10px;
+}
+/* Styles for the contacts */
+.contacts-container{
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+background-color: rgb(247, 247, 247);
+border: 1px solid gray;
+border-radius: 20px;
+padding: 30px;
+margin-top: 50px;
+}
+.contacts-text{
+margin-top: 30px;
+
+}
+.contacts-img{
+ border-radius: 20px;
+    border: 1px gray solid;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+
+}
+.contacts-link{
+    
 }
